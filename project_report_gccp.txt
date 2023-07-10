@@ -1,0 +1,54 @@
+Project Report: Hosting a Website on Google Cloud Bucket and Using HTTP Load Balancer
+
+Introduction:
+In this project, we will host a website on a Google Cloud Bucket and use an HTTP load balancer to distribute traffic to the website. The goal of this project is to demonstrate how to host a website on the cloud and improve its availability and scalability.
+
+Step 1: Create a Google Cloud Bucket
+The first step in hosting a website on the Google Cloud is to create a bucket. A bucket is a container for storing and managing files on the cloud. To create a bucket, follow these steps:
+
+Go to the Google Cloud Console
+Click on the Storage option in the navigation menu
+Click on the "+ Create Bucket" button
+Enter a name for the bucket, select a storage class, and a location
+Click on the "Create" button
+Step 2: Upload Website files
+Once you have created a bucket, you can upload the files for your website to it. You can do this using the Google Cloud Console, the gsutil command-line tool, or a third-party tool such as Cyberduck.
+
+Step 3: Configure the Bucket for Website Hosting
+After uploading the files for your website, you will need to configure the bucket for website hosting. To do this, follow these steps:
+
+Go to the Google Cloud Console
+Click on the Storage option in the navigation menu
+Click on the name of the bucket you just created
+Click on the "Edit" button
+Scroll down to the "Website Configuration" section
+Enter the name of the index file (index.html)
+Click on the "Save" button
+Step 4: Create an HTTP Load Balancer
+The next step is to create an HTTP load balancer. A load balancer is a service that distributes incoming traffic across multiple servers, improving the availability and scalability of the website. To create an HTTP load balancer, follow these steps:
+
+Go to the Google Cloud Console
+Click on the Network Services option in the navigation menu
+Click on the "Load balancers" option
+Click on the "+ Create" button
+Select "HTTP(S) Load Balancer"
+Configure the load balancer settings
+Click on the "Create" button
+Step 5: Configure the Load Balancer
+After you have created the load balancer, you will need to configure it. This includes adding the bucket as a backend service and configuring the load balancing rules. To do this, follow these steps:
+
+Go to the Google Cloud Console
+Click on the Network Services option in the navigation menu
+Click on the "Load balancers" option
+Click on the name of the load balancer you just created
+Click on the "Edit" button
+Scroll down to the "Backend configuration" section
+Add the bucket as a backend service
+Scroll down to the "Host and path rules" section
+Configure the load balancing rules
+Click on the "Save" button
+Step 6: Testing the Website
+After completing the above steps, the website should be accessible via the domain name provided by Load Balancer. Test the website by opening the website url on a web browser.
+
+Conclusion:
+Hosting a website on a Google Cloud Bucket and using an HTTP load balancer is a cost-effective and scalable solution for hosting a website. By following the steps outlined in this report, you should be able to

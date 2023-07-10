@@ -1,0 +1,68 @@
+1]Canny, J. (1986). ”A Computational Approach to Edge Detection.” IEEE Transac-
+tions on Pattern Analysis and Machine Intelligence, 8(6), 679-698. This seminal paper by
+John Canny introduces the Canny edge detection algorithm, which is widely regarded as
+one of the most effective edge detection methods. The paper provides a detailed explana-
+tion of the algorithm, its theoretical foundations, and practical considerations.
+[2]Bhurke, C., Sirdeshmukh, M., Kanitkar, Prof. Mrs. M.S. (2015). ”Currency Recog-
+nition Using Image Processing.” International Journal of Innovative Research in Computer
+and Communication Engineering, 3(5). This paper presents a currency recognition system
+that utilizes image processing techniques to distinguish between genuine and counterfeit
+banknotes. The authors propose a method based on feature extraction and classification
+algorithms to achieve accurate and efficient recognition.
+[3]Gupta, S., Tiwari, P. (2016). ”Automatic Recognition of Indian Currency Denom-
+ination using Image Processing Techniques.” International Journal of Advanced Research
+in Computer Science and Software Engineering, 6(12). The authors propose an automatic
+recognition system for Indian currency denominations using image processing methods.
+The system employs various image processing techniques, including edge detection, seg-
+mentation, and feature extraction, to identify and classify different denominations of Indian
+banknotes.
+[4]Agrawal, A., Verma, R. (2017). ”Currency Recognition System using Image Process-
+ing and Machine Learning Techniques.” Procedia Computer Science, 122, 783-789. This
+paper presents a currency recognition system that combines image processing and machine
+learning techniques. The authors employ feature extraction methods such as Gabor filters
+4
+Project Title Chapter 2
+and Local Binary Patterns (LBP), and use Support Vector Machines (SVM) for classifica-
+tion. The system achieves high accuracy in recognizing different currency denominations.
+[5]Jindal, M., Mehta, S. (2019). ”Detection of Counterfeit Currency using Image Pro-
+cessing and Machine Learning.” Journal of Computer Science, 15(3), 301-314. This paper
+presents a counterfeit currency detection system that integrates image processing tech-
+niques and machine learning algorithms. The authors employ feature extraction methods
+such as Scale-Invariant Feature Transform (SIFT), and use Random Forest and K-Nearest
+Neighbors (KNN) for classification. The system achieves accurate detection of counterfeit
+banknotes.
+[6]Fathy, M. (2015). ”Performance Analysis of Canny Edge Detection Algorithm.” In-
+ternational Journal of Computer Applications, 119(3), 27-34. This paper investigates the
+performance of the Canny edge detection algorithm under various conditions, including
+different image types, noise levels, and parameter settings. The author analyzes the algo-
+rithm’s sensitivity to these factors and provides insights into its strengths and limitations.
+[7]Saxena, A., Jain, A. (2019). ”Fake Indian Currency Detection using Machine Learn-
+ing Techniques.” 2019 International Conference on Sustainable Computing and Intelligent
+Systems (ICSCIS). This paper proposes a fake Indian currency detection system that uti-
+lizes machine learning techniques. The authors employ feature extraction methods, such
+as Gabor filters and Local Binary Patterns (LBP), and train classifiers like Support Vector
+Machines (SVM) to identify counterfeit banknotes.
+[8]Shen, L., Chen, G., Wei, Z., Gao, J. (2018). ”Deep Learning for Edge Detection:
+A Review.” IEEE Transactions on Neural Networks and Learning Systems, 30(9), 2604-
+2622. This survey paper provides an overview of deep learning techniques applied to
+edge detection. The authors review various deep learning architectures, such as fully
+convolutional networks (FCNs) and convolutional neural networks (CNNs), and discuss
+their performance in edge detection tasks.
+[9]Gonzalez, R. C., Woods, R. E. (2017). ”Digital Image Processing.” Pearson. This
+comprehensive textbook on digital image processing covers various edge detection algo-
+rithms, including gradient-based methods, Laplacian operators, and multi-scale techniques.
+The authors provide detailed explanations, implementation considerations, and perfor-
+mance evaluations of these algorithms.
+[10] Zhang, L., Chen, D. (2012). ”Edge Detection Based on Canny Operator: A
+Survey.” Journal of Image and Graphics, 17(3), 320-328. This survey paper provides an
+overview of different variations and enhancements of the Canny edge detection algorithm.
+Department of Computer Science and Engineering, SCEM, Mangaluru Page 5
+Project Title Chapter 2
+The authors discuss various approaches to improve the performance and robustness of
+Canny edge detection, including noise reduction techniques, edge linking methods, and
+optimization of parameter selection
+[11]Forsyth, D. A., Ponce, J. (2012). ”Computer Vision: A Modern Approach.”
+Prentice Hall. This comprehensive textbook on computer vision covers various topics,
+including edge detection. It includes a detailed discussion of the Canny edge detection
+algorithm, explaining the different stages involved and providing insights into parameter
+selection and performance considerations.
